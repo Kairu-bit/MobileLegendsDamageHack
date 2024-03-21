@@ -1,3 +1,1 @@
 # MobileLegendsDamageHack
-# MobileLegendsDamageHack
-# MobileLegendsDamageHack
