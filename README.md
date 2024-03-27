@@ -6,6 +6,7 @@
 # Installation
 ```bash
 cd $HOME
+rm -rf MobileLegendsDamageHack
 termux-setup-storage
 pkg update
 pkg install git nodejs
